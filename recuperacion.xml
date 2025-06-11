@@ -1,0 +1,42 @@
+<vuelo>
+    <aerolinea>Condor</aerolinea>
+        <logo>condor.png</logo>
+        <codigo>DE1400</codigo>
+        <llegada>9:50</llegada>
+        <origen>Munich</origen>
+        <estado>En tierra</estado>
+        <terminal>Terminal 1</terminal>
+
+    <aerolinea>easyJet</aerolinea>
+        <logo>easyjet.png</logo>
+        <codigo>U22733</codigo>
+        <llegada>10:05</llegada>
+        <origen>Bristol</origen>
+        <estado>En tierra</estado>
+        <terminal>Terminal 1</terminal>
+
+    <aerolinea>Binter Canarias</aerolinea>
+        <logo>binter.png</logo>
+        <codigo>NT518</codigo>
+        <llegada>10:15</llegada>
+        <origen>Gran Canaria</origen>
+        <estado>En tierra</estado>
+        <terminal>Terminal 2</terminal>
+
+    <aerolinea>Ryanair</aerolinea>
+        <logo>ryanair.png</logo>
+        <codigo>FR5593</codigo>
+        <llegada>10:20</llegada>
+        <origen>Edimburgo</origen>
+        <estado>En tierra</estado>
+        <terminal>Terminal 1</terminal>
+
+    <aerolinea>Vueling Airlines</aerolinea>
+        <logo>vueling.png</logo>
+        <codigo>VY2472</codigo>
+        <llegada>10:25</llegada>
+        <origen>Barcelona</origen>
+        <estado>Ha despegado</estado>
+        <terminal>Terminal 1</terminal>
+</vuelo>
+    

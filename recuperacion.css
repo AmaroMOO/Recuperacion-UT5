@@ -1,0 +1,61 @@
+body {
+    background: #f3f6fa;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px #0001;
+    padding: 24px 32px 32px 32px;
+}
+.tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+.tabs button {
+    padding: 8px 18px;
+    border: none;
+    border-radius: 6px 6px 0 0;
+    background: #e9eef5;
+    color: #222;
+    font-weight: 500;
+    cursor: pointer;
+}
+.tabs button.active {
+    background: #223a5f;
+    color: #fff;
+}
+
+.table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 8px;
+}
+.table th {
+    text-align: left;
+    color: #223a5f;
+    font-size: 0.98rem;
+    font-weight: 600;
+    padding-bottom: 8px;
+}
+.table td {
+    background: #f7fafd;
+    padding: 12px 10px;
+    border-radius: 6px;
+    vertical-align: middle;
+    font-size: 0.97rem;
+}
+.table td.logo img {
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    background: #fff;
+    border: 1px solid #e0e6ef;
+    margin-right: 8px;
+    vertical-align: middle;
+}

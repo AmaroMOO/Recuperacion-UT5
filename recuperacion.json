@@ -1,0 +1,77 @@
+[
+    {
+        "vuelo": {
+            "aerolinea": "Binter Canarias",
+            "informacion": [
+                {
+                    "logo": "binter.png",
+                    "codigo": "NT781",
+                    "llegada": "10:20",
+                    "origen": "Tenerife Sur",
+                    "estado": "En vuelo",
+                    "terminal": "Terminal 2"
+                }
+            ]
+        }
+    },
+    {
+        "vuelo": {
+            "aerolinea": "easyJet",
+            "informacion": [
+                {
+                    "logo": "easyjet.png",
+                    "codigo": "U24776",
+                    "llegada": "10:25",
+                    "origen": "Nantes",
+                    "estado": "Ha despegado",
+                    "terminal": "Terminal 1"
+                }
+            ]
+        }
+    },
+    {
+        "vuelo": {
+            "aerolinea": "Transvia",
+            "informacion": [
+                {
+                    "logo": "transavia.png",
+                    "codigo": "HV5686",
+                    "llegada": "10:30",
+                    "origen": "Amsterdam Schipol",
+                    "estado": "Programado",
+                    "terminal": "Terminal 1"
+                }
+            ]
+        }
+    },
+    {
+        "vuelo": {
+            "aerolinea": "Edelweiss Air",
+            "informacion": [
+                {
+                    "logo": "eldeweiss.png",
+                    "codigo": "WK229",
+                    "llegada": "10:30",
+                    "origen": "Zurich",
+                    "estado": "Ha despegado",
+                    "terminal": "Terminal 1"
+                }
+            ]
+        }
+    },
+    {
+        "vuelo": {
+            "aerolinea": "Condor",
+            "informacion": [
+                {
+                    "logo": "condor.png",
+                    "codigo": "DE1401",
+                    "llegada": "10:40",
+                    "origen": "Munich",
+                    "estado": "Programado",
+                    "terminal": "Terminal 1"
+                }
+            ]
+        }
+    }
+]
